@@ -62,7 +62,6 @@ The platform is built as a containerized microservices architecture optimized fo
 ---
 
 ## 👨‍💻 Engineer
-**Nayan Pandit**
-*InvestTech Equity Investment Banking Analyst & Jr. Quant Engineer*
+**Kobby Owen**
 
 *Disclaimer: This project is for educational and research purposes only. It simulates trading environments and does not execute real financial transactions.*
